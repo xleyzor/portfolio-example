@@ -7,4 +7,4 @@
 
 <h1>Portfolio Example</h1>
 
-⭐ Live URL => https://www.omertoyga.dev
+⭐ Live URL => [https://www.omertoyga.dev](https://portfolio-example-henna.vercel.app)https://portfolio-example-henna.vercel.app
