@@ -5,6 +5,6 @@
 
 
 
-<h1>Ömer Toyga Portfolio</h1>
+<h1>Portfolio Example</h1>
 
 ⭐ Live URL => https://www.omertoyga.dev
